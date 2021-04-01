@@ -19,7 +19,8 @@ window.mdc.autoInit();
 
     const validHookDomains = [
         'discordapp.com',
-        'discord.com'
+        'discord.com',
+        'media.guilded.gg'
     ];
 
     $('#button-generate').click(function () {
